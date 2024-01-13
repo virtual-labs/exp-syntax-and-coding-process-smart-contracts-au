@@ -2,39 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary purpose of Remix IDE in Ethereum smart contract development??",
+      "question": "This is a Sample Question 1?",
       "answers": {
-        "a": "Graphic Design",
-        "b": "Integrated Development Environment",
-        "c": " Data Analysis",
-        "d": "Social Networking"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
-     
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which programming language is predominantly used in Remix IDE for Ethereum smart contract development?",
-      "answers": {
-        "a": "JavaScript",
-        "b": "Python",
-        "c": "Solidity",
-        "d": " Java"
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
-      
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What feature in Remix IDE allows developers to test their smart contracts before deployment?",
-      "answers": {
-        "a": " Debugger",
-        "b": " Profiler",
-        "c": " Remix Token",
-        "d": " Remix Marketplace"
-      },
-      
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "This is a Sample Question 2?",
+      "answers": {
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
