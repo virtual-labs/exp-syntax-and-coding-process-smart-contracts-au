@@ -2,38 +2,36 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In Solidity, which keyword is used to define a constructor in a class?",
+      "question": "This is a Sample Question 1?",
       "answers": {
-        "a": "init",
-        "b": "create",
-        "c": " constructor",
-        "d": "setup"
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
-      
-      "correctAnswer": "c",
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "Why are gas fees required in Ethereum transactions, and how are they determined?",
+      "question": "This is a Sample Question 2?",
       "answers": {
-        "a": "Gas fees are used to purchase Ether; they are fixed for all transactions.",
-        "b": "Gas fees are required to compensate miners for computation; they vary based on the computational complexity of the transaction. ",
-        "c": " Gas fees are optional and depend on the user's preference",
-        "d": " Gas fees are waived for transactions involving smart contracts."
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
       },
-     
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What is the primary purpose of the mapping keyword in Solidity?",
-      "answers": {
-        "a": "To create loops",
-        "b": "To define a dynamic array",
-        "c": "To implement key-value pairs",
-        "d": "To handle exceptions"
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
