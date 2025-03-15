@@ -1,1 +1,1 @@
-<h2>Understanding  the concepts of smart-contract using solidity</h2>
+<h2>Understanding the Concepts of Smart Contracts Using Solidity</h2>
