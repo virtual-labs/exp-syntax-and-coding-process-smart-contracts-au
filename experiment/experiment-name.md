@@ -1,3 +1,2 @@
-<h2>Understanding the Concepts of Smart Contracts
-Using Solidity</h2>
+<h2>Understand the syntax and coding process of Smart Contracts</h2>
 
