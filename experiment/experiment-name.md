@@ -1,2 +1,3 @@
-<h2>Solidity Smart Contract Fundamentals</h2>
+<h2>Understanding the Concepts of Smart Contracts
+Using Solidity</h2>
 
