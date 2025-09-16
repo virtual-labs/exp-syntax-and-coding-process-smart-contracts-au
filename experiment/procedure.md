@@ -1,34 +1,31 @@
-<h3>Procedure</h3>
-<p>In this simulation we are exploring the Solidity compiler to perform simple tasks and learn about 
-"if and looping structures", and "classes and objects".</p>
+### Procedure
+In this simulation, we are exploring the Solidity compiler to perform simple tasks and learn about 
+**if and looping structures**, and **classes and objects**.
 
-Step 1 : On the top right side, click the <b>New File</b> button to start creating a Solidity file.  
+**Step 1**: On the top-right side, click the **New File** button to start creating a Solidity file.  
 <div><img src="images/step1new.png" alt=""></div>
 
-Step 2 : Enter the filename with the extension <b>.sol</b> (example: test.sol) and press <b>Enter</b>.  
+**Step 2**: Enter the filename with the extension **.sol** (example: `test.sol`) and press **Enter**.  
 <div><img src="images/step2entername.png" alt=""></div>
 
-Step 3 : After creating the file, a window will appear asking you to select a tutorial. Choose one option from <b>If Else</b>, <b>Loop</b>, or <b>Classes</b>.  
+**Step 3**: After creating the file, a window will appear asking you to select a tutorial. Choose one option from **If Else**, **Loop**, or **Classes**.  
 <div><img src="images/step3select.png" alt=""></div>
 
-Step 4 : If you select <b>If Else</b>, observe the Solidity code and read the given instructions carefully.  
-Then, click the <b>Deploy</b> button on the left side.  
+**Step 4**: If you select **If Else**, you will be redirected directly to the **If Else Exercise**. Carefully read all the given instructions, complete the exercise, and then click the **Run & Compile** button.  
 <div><img src="images/step4deploy.png" alt=""></div>
 
-Step 5 : In the deploy panel, select your contract (e.g., <b>test.sol</b>) from the dropdown and click <b>Deploy Contract</b>.  
+**Step 5**: Once your contract is **successfully compiled**, the **Deployment Panel** will be activated. From there, select your contract (e.g., `test.sol`) in the dropdown and click **Deploy Contract**. After deployment, you will see the **If-Else Deployed Contract**.  
 <div><img src="images/step5deploycontract.png" alt=""></div>
 
-Step 6 : Read the instructions carefully. Enter values for <b>a</b> and <b>b</b> as inputs, then click <b>compareValues</b> to check the output of the function.  
-After this, a dialog box will appear — click <b>Go To Exercise</b> to proceed.  
+**Step 6**: After deployment, the **If-Else Exercise** will be shown inside the **Deployed Contract** panel. Enter two numbers (a and b), then click **compareValues** to test the contract logic.  
+
+If you want to try another tutorial, click the **Files** tab, create a new file, select a different tutorial, and then deploy it.  
 <div><img src="images/step6compare.png" alt=""></div>
 
-Step 7: To complete the exercise, fill in the blank in the if statement with the correct condition.  
-After entering the correct code, click the <b>Run & Compile</b> button on the top right to continue.  
-<div><img src="images/step7fillcode.png" alt=""></div>
-
-Step 8: After clicking the <b>Run & Compile</b> button, enter any values for <b>a</b> and <b>b</b> in the input fields.  
-Then click the <b>compareValues</b> button to view the correct answer returned by the contract.  
+**Step 7**: After clicking the **Run & Compile** button, enter any values for **a** and **b** in the input fields.  
+Then click the **compareValues** button to view the correct result returned by the contract.  
 <div><img src="images/step8result.png" alt=""></div>
+
 
 
 <u><h4>Hands-On Exercise</h4></u>
