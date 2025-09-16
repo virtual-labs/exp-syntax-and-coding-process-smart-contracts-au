@@ -1,2 +1,2 @@
-<h2>Solidity Smart Contract Fundamentals</h2>
+<h2>Understand the syntax and coding process of Smart Contracts</h2>
 
