@@ -1,6 +1,2 @@
-<u><h3>Aim of the experiment</h3></u>
-<p>The main objective of this experiment is to Perform simple tasks using solidity </p>
-<ul>
- <li> Explore if and looping structures</li>
-  <li>  Explore classes and objects</li>
-  </ul>
+
+The aim of this experiment is to understand the fundamental programming constructs of Solidity smart contracts. This includes learning the syntax of Solidity, exploring conditional statements (`if-else`) and looping structures, understanding the concept of contracts as classes and objects, gaining initial exposure to transactions and gas fees, and applying these concepts by coding simple applications such as Car Rental, Land Buy/Sell, and KYC Verification for hands-on experience.
