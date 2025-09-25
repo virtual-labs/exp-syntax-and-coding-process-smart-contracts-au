@@ -1,4 +1,4 @@
-### Procedure
+
 In this simulation, we are exploring the Solidity compiler to perform simple tasks and learn about 
 **if and looping structures**, and **classes and objects**.
 
