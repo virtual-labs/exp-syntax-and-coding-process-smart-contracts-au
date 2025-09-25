@@ -1,4 +1,3 @@
-<h3>Theory</h3>
 
 <p>
 Solidity is a high-level, contract-oriented programming language specifically designed for writing smart contracts on the Ethereum blockchain. 
