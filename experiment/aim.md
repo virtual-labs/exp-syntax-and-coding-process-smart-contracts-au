@@ -1,2 +1,1 @@
-
- The aim of this experiment is to familiarize students with the syntax and coding process of Solidity smart contracts by introducing fundamental programming constructs and execution concepts of blockchain-based applications.
+To understand the syntax and coding process of Smart Contracts by performing basic programming tasks using Solidity, including the use of conditional (if) statements and looping structures, and to gain hands-on experience by developing a simple Car Rental smart contract application.
