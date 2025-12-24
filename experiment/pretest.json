@@ -2,39 +2,69 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary purpose of Remix IDE in Ethereum smart contract development??",
+      "question": "What is the primary purpose of Remix IDE in Ethereum smart contract development?",
       "answers": {
-        "a": "Graphic Design",
-        "b": "Integrated Development Environment",
-        "c": " Data Analysis",
-        "d": "Social Networking"
+        "a": "Graphic design",
+        "b": "An integrated development environment (IDE) for Solidity",
+        "c": "Data analysis",
+        "d": "Social networking"
       },
-     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "Which programming language is predominantly used in Remix IDE for Ethereum smart contract development?",
+      "question": "Which programming language is primarily used in Remix IDE to write Ethereum smart contracts?",
       "answers": {
         "a": "JavaScript",
         "b": "Python",
         "c": "Solidity",
-        "d": " Java"
+        "d": "Java"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "What feature in Remix IDE allows developers to test their smart contracts before deployment?",
+      "question": "Which feature in Remix IDE is used to test and debug smart contracts before deployment?",
       "answers": {
-        "a": " Debugger",
-        "b": " Profiler",
-        "c": " Remix Token",
-        "d": " Remix Marketplace"
+        "a": "Debugger",
+        "b": "Profiler",
+        "c": "Token Manager",
+        "d": "Marketplace"
       },
-      
       "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which control structure in Solidity allows repeated execution of a block of code?",
+      "answers": {
+        "a": "if-else statement",
+        "b": "for loop",
+        "c": "contract",
+        "d": "event"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which keyword is used in Solidity to define a smart contract?",
+      "answers": {
+        "a": "class",
+        "b": "contract",
+        "c": "function",
+        "d": "struct"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of gas fees when executing smart contracts on Ethereum?",
+      "answers": {
+        "a": "Gas fees are optional",
+        "b": "Gas fees compensate the network for computation and storage",
+        "c": "Gas fees are used to purchase Ether",
+        "d": "Gas fees apply only to non-contract transactions"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
