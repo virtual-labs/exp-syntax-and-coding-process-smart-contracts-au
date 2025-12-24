@@ -1,2 +1,1 @@
-
- The aim of this experiment is to familiarize students with the syntax and coding process of Solidity smart contracts by introducing fundamental programming constructs and execution concepts of blockchain-based applications.
+The aim of this experiment is to familiarize students with the syntax and coding process of Solidity smart contracts by introducing fundamental programming constructs and execution concepts of blockchain-based applications.
