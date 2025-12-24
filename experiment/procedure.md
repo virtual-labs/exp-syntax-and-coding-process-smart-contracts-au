@@ -82,7 +82,7 @@ After successfully completing the If Else exercise, repeat the same procedure fo
 - Select `classes.sol` to understand Solidity structures, classes, and object-like behavior.
 
 
-### Use-caese Exercise (Car Rental Contract)
+### Use-case Exercise (Car Rental Contract)
 
 **Step 1**: From the main screen, click the **Use-case** button to start the practical task.
 <div><img src="images/step1select.png" alt=""></div>
