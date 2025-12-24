@@ -1,19 +1,5 @@
+Solidity is a high-level, contract-oriented programming language used for writing smart contracts on the Ethereum blockchain. This experiment focuses on understanding the syntax and coding process of smart contracts by performing simple tasks using Solidity.
 
+Students will explore the use of conditional statements and looping structures, such as <code>if-else</code> statements and loops, to control the flow of execution within smart contracts. They will also learn how smart contracts function as classes in Solidity, where contracts define state variables and functions to represent objects and their behavior.
 
-<u><h3>Theory</h3></u>
-Solidity is a high-level programming language specifically designed for writing smart contracts on the Ethereum blockchain. 
-It is the most commonly used language for Ethereum development. Solidity is similar to JavaScript in terms of syntax, and it allows developers
- to define the logic and behavior of smart contracts.
-<h3>Remix IDE Features:</h3>
-<ul>
-   <li>Code Editor: Remix provides a code editor with syntax highlighting and autocompletion for Solidity, making it easier for developers to write smart contracts.
-</li>
-   <li>Compiler: It includes a Solidity compiler to compile smart contracts into Ethereum bytecode.
-</li>
-   <li>Debugger: Remix has a built-in debugger that helps developers step through the execution of their smart contracts, inspect variables, and identify and resolve issues.
-</li>
-   <li>Testing Environment: Remix provides a testing environment for deploying and testing smart contracts on different Ethereum networks, including local testnets and the mainnet.
-</li> 
-<li>Deployment Tools: It offers tools for deploying smart contracts to various Ethereum networks, and it allows you to interact with deployed contracts.
-</li>
-</ul>
+To gain hands-on experience, students will code a simple smart contract application. A car rental application will be developed to apply the learned concepts and to understand how smart contracts are written and executed in a practical scenario.
