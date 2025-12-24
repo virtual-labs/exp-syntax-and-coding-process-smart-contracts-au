@@ -1,55 +1,105 @@
+### Procedure
 
-In this simulation, we are exploring the Solidity compiler to perform simple tasks and learn about 
-**if and looping structures**, and **classes and objects**.
+This simulation introduces the Solidity compiler through guided tasks designed to teach fundamental programming concepts, including conditional statements (if-else), looping structures, and data organization using structs (which provide object-like behavior in Solidity). Participants will also complete a practical Hands-On Exercise based on a Car Rental Smart Contract.
 
-**Step 1**: On the top-right side, click the **New File** button to start creating a Solidity file.  
-<div><img src="images/step1new.png" alt=""></div>
+##### Step 1: Select a Tutorial
 
-**Step 2**: Enter the filename with the extension **.sol** (example: `test.sol`) and press **Enter**.  
-<div><img src="images/step2entername.png" alt=""></div>
+From the left sidebar, click the **Files** button and select one of the predefined Solidity tutorial files from the Contracts list, such as:
 
-**Step 3**: After creating the file, a window will appear asking you to select a tutorial. Choose one option from **If Else**, **Loop**, or **Classes**.  
-<div><img src="images/step3select.png" alt=""></div>
+- `if.sol`
+- `loop.sol`
+- `classes.sol`
 
-**Step 4**: If you select **If Else**, you will be redirected directly to the **If Else Exercise**. Carefully read all the given instructions, complete the exercise, and then click the **Run & Compile** button.  
-<div><img src="images/step4deploy.png" alt=""></div>
+Selecting a tutorial file automatically loads the **Smart Contract Syntax and Coding Process** page, where you can review the instructions and logic for the selected tutorial.
 
-**Step 5**: Once your contract is **successfully compiled**, the **Deployment Panel** will be activated. From there, select your contract (e.g., `test.sol`) in the dropdown and click **Deploy Contract**. After deployment, you will see the **If-Else Deployed Contract**.  
-<div><img src="images/step5deploycontract.png" alt=""></div>
+![Step 1: Select Tutorial](images/step1select.png)
 
-**Step 6**: After deployment, the **If-Else Exercise** will be shown inside the **Deployed Contract** panel. Enter two numbers (a and b), then click **compareValues** to test the contract logic.  
+##### Step 2: Review Logic and Flowchart
 
-If you want to try another tutorial, click the **Files** tab, create a new file, select a different tutorial, and then deploy it.  
-<div><img src="images/step6compare.png" alt=""></div>
+After selecting the tutorial file, the corresponding Logic page (e.g., **If Else – Logic**) is displayed.
 
-**Step 7**: After clicking the **Run & Compile** button, enter any values for **a** and **b** in the input fields.  
-Then click the **compareValues** button to view the correct result returned by the contract.  
-<div><img src="images/step8result.png" alt=""></div>
+Carefully read the problem description and logic rules shown at the top.
+
+Observe the interactive flowchart that visually represents the conditional execution flow:
+
+- You can drag the canvas to move the flowchart.
+- Scroll to zoom in or out for better visibility.
+
+Once you fully understand the logic and execution flow, click the **Proceed to Exercise** button to move to the coding section.
+
+![Step 2: Review Flowchart](images/step2flowchart.png)
+
+##### Step 3: Complete the Exercise and Compile
+
+In the Exercise panel (e.g., **If Else – Exercise**):
+
+1. Carefully read the question.
+2. Fill in the missing `if`, `else if`, and `else` conditions.
+3. Click the **Run & Compile** button.
+
+If the code is correct, the compilation will succeed.
+
+![Step 3: Run and Compile](images/step4run.png)
+
+##### Step 4: Deploy the Smart Contract
+
+Once compilation is successful:
+
+- The Deployment Panel becomes active on the left.
+- Select the contract (e.g., `if.sol`) from the dropdown.
+- Click **Deploy Contract**.
+
+You will see a confirmation message and a **Deployed Contract** section.
+
+![Step 4: Deploy Contract](images/step5compile.png)
+
+##### Step 5: Interact with the Deployed Contract
+
+After deployment:
+
+- The exercise interface appears inside the **Deployed Contract** panel.
+- Enter values for `a` and `b`.
+- Click the **compareValues** button.
+
+The contract executes on the deployed instance and returns the result.
+
+![Step 5: Interact with Contract](images/step6compare.png)
+
+##### Step 6: View the Result
+
+The result is displayed clearly below the button.
+
+This confirms that the if–else logic works correctly.
+
+![Step 6: View Result](images/step7compare.png)
+
+#### Continuing with the Remaining Tutorials
+
+After successfully completing the If Else exercise, repeat the same procedure for the remaining tutorials:
+
+- Select `loop.sol` to practice looping constructs such as `for` and `while`.
+
+- Select `classes.sol` to understand Solidity structures, classes, and object-like behavior.
 
 
+### Use-caese Exercise (Car Rental Contract)
 
-<u><h4>Hands-On Exercise</h4></u>
+**Step 1**: From the main screen, click the **Use-case** button to start the practical task.
+<div><img src="images/step1select.png" alt=""></div>
 
-1. After completing the exercise, go to the <b>Hands-On</b> section.  
-Click the <b>Hands-On</b> button available at the top to start the practical task.  
-<div><img src="images/step9handson.png" alt=""></div>
+**Step 2**: The simulation will start with the **Car Rental Contract: Creation & Deployment** worksheet. The first step is to **Reset scenario**. Click the **Reset scenario** button to start from a clean chain.
+<div><img src="images/step1use-case.png" alt=""></div>
 
-2. Before starting the Hands-On experiment, first go through the section <b>Learn Some Important Topics</b>.
-<div><img src="images/step10handsontest.png" alt=""></div>  
-Click the <b>Next</b> button to explore key concepts such as <b>Datatypes</b>, <b>Functions</b>, <b>Events</b>, <b>Modifiers</b>, and <b>Constructors</b>.  
-After completing this section, click the <b>Hands-On</b> button to begin the experiment.  
-<div><img src="images/step10.1.png" alt=""></div>
+**Step 3**: The next step is to **Deploy contract as Owner**. Click the **Deploy contract** button to deploy the rental contract with yourself as owner. Record the deployed address.
+<div><img src="images/step2deploycontract.png" alt=""></div>
 
-3. In the Hands-On section, complete all the given tasks by selecting the correct stack and finishing the exercise.  
-<div><img src="images/step11handsonselect.png" alt=""></div>
-After successfully completing the Hands-On activity, click the <b>Get Code</b> button to view and download the solution code.  
-<div><img src="images/step12handsonfinal.png" alt=""></div>
+**Step 4**: The next step is to make a **Successful tx: User rent(3) with payment**. Click the **Send rent(3)** button to call rent(3) with the required payment. Capture gas used and cost from the receipt.
+<div><img src="images/step3gas.png" alt=""></div>
 
-4. After clicking the <b>Get Code</b> button, view the complete final code of your Solidity program.  
-This code represents the full solution for the Hands-On experiment.  
-<div><img src="images/step13final.png" alt=""></div>
+**Step 5**: The next step is to make a **Revert tx: rent again**. Click the **Send rent() (expect revert)** button to attempt to rent again without returning first. Observe the revert reason and note why gas was still consumed.
+<div><img src="images/step4revert.png" alt=""></div>
+
+**Step 6**: The final step is to **Return car as Owner**. Click the **Return car** button to switch to owner and call returnCar(). State should show the car is available again.
+<div><img src="images/step5returncard .png" alt=""></div>
 
 
-<h5>End of Procedure</h5>
-<p>You have successfully completed the Solidity simulation experiment.  
-From creating a new file, learning important concepts, deploying contracts, to completing the Hands-On section and viewing the final code — the procedure is now complete.</p>

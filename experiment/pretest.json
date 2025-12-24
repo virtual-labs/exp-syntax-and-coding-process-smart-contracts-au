@@ -2,13 +2,14 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the primary purpose of Remix IDE in Ethereum smart contract development?",
+      "question": "What is the primary purpose of Remix IDE in Ethereum smart contract development??",
       "answers": {
         "a": "Graphic Design",
-        "b": "Integrated Development Environment (IDE) for Solidity",
-        "c": "Data Analysis",
+        "b": "Integrated Development Environment",
+        "c": " Data Analysis",
         "d": "Social Networking"
       },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -18,53 +19,22 @@
         "a": "JavaScript",
         "b": "Python",
         "c": "Solidity",
-        "d": "Java"
+        "d": " Java"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "Which feature in Remix IDE allows developers to test and debug their smart contracts before deployment?",
+      "question": "What feature in Remix IDE allows developers to test their smart contracts before deployment?",
       "answers": {
-        "a": "Debugger",
-        "b": "Profiler",
-        "c": "Remix Token",
-        "d": "Remix Marketplace"
+        "a": " Debugger",
+        "b": " Profiler",
+        "c": " Remix Token",
+        "d": " Remix Marketplace"
       },
+      
       "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "Which Solidity control structure allows repeated execution of a block of code?",
-      "answers": {
-        "a": "if-else statement",
-        "b": "for loop",
-        "c": "Contract",
-        "d": "Event"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "In Solidity, which keyword is used to define a contract?",
-      "answers": {
-        "a": "class",
-        "b": "contract",
-        "c": "function",
-        "d": "struct"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "What is the purpose of gas fees in Ethereum when executing smart contracts?",
-      "answers": {
-        "a": "Gas fees are optional donations",
-        "b": "Gas fees compensate miners for computation and storage",
-        "c": "Gas fees are used to buy Ether",
-        "d": "Gas fees only apply to transactions without contracts"
-      },
-      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
