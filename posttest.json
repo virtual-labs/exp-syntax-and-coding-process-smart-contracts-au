@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is Solidity primarily used for?",
+      "answers": {
+        "a": "Developing mobile apps",
+        "b": "Writing smart contracts on Ethereum",
+        "c": "Creating databases",
+        "d": "Designing websites"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a smart contract?",
+      "answers": {
+        "a": "A contract that is manually signed",
+        "b": "A self-executing program on the blockchain",
+        "c": "A simple text document",
+        "d": "A type of cryptocurrency"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which Solidity data structure is used to store key-value pairs efficiently?",
+      "answers": {
+        "a": "Array",
+        "b": "Mapping",
+        "c": "Struct",
+        "d": "Enum"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Which of the following is a control structure in Solidity?",
+      "answers": {
+        "a": "for loop",
+        "b": "switch-case",
+        "c": "goto",
+        "d": "try-catch only"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why are gas fees required in Ethereum transactions?",
+      "answers": {
+        "a": "Gas fees are used to purchase Ether; they are fixed",
+        "b": "Gas fees are required to compensate miners for computation; they vary based on transaction complexity",
+        "c": "Gas fees are optional",
+        "d": "Gas fees are waived for smart contract transactions"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the correct way to iterate over a fixed number of times in Solidity?",
+      "answers": {
+        "a": "Using a while loop only",
+        "b": "Using a for loop with a counter",
+        "c": "Using recursion only",
+        "d": "Using a switch-case statement"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}
