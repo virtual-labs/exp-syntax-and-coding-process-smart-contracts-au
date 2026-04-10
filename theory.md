@@ -1,0 +1,5 @@
+Solidity is a high-level, contract-oriented programming language used for writing smart contracts on the Ethereum blockchain. This experiment focuses on understanding the syntax and coding process of smart contracts by performing simple tasks using Solidity.
+
+Students will explore the use of conditional statements and looping structures, such as <code>if-else</code> statements and loops, to control the flow of execution within smart contracts. They will also learn how smart contracts function as classes in Solidity, where contracts define state variables and functions to represent objects and their behavior.
+
+To gain hands-on experience, students will code a simple smart contract application. A car rental application will be developed to apply the learned concepts and to understand how smart contracts are written and executed in a practical scenario.
