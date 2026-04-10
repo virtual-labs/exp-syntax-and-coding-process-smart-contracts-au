@@ -8,6 +8,4 @@
 
 4. [Ethereum Smart Contracts – Ethereum Developer Documentation](https://ethereum.org/en/developers/docs/smart-contracts/)
 
-
-
-6. [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
+5. [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
